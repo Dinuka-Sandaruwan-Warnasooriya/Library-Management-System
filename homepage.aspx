@@ -56,7 +56,7 @@
          <div class="row">
             <div class="col-md-4">
                <center>
-                  <img width="150px" src="imgs/sign-up.png" />
+                  <img width="150px" src="images/imgs/sign-up.png" />
                   <h4>Sign Up</h4>
                   <p class="text-justify">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                </center>
